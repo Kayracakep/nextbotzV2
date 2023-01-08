@@ -8,7 +8,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
     const ojam = Math.floor( Kurang % (1000 * 60 * 60 * 24) / (1000 * 60 * 60))
     const onet = Math.floor( Kurang % (1000 * 60 * 60) / (1000 * 60))
     const detek = Math.floor( Kurang % (1000 * 60) / 1000)
-  let info = `Bot ini menggunakan script by\n ᴹᴿ᭄ PutraModz ×፝֟͜×\n\n*Version:* Private Edition V2`
+  let info = `Bot ini menggunakan script by\n 🎀 HIRAIWA HOTARU 🎀\n\n*Version:* Private Edition V2`
 
 let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 const message = {
@@ -20,13 +20,13 @@ const message = {
                 {
                     urlButton: {
                         displayText: 'Beli Sc? Klik',
-                        url: 'https://wa.me/6282214729677'
+                        url: 'https://wa.me/6289504231588'
                     }
                 },
                 {
                     urlButton: {
                         displayText: 'Ke IG GW',
-                        url: 'https://Instragram.com/l4c1f2r',
+                        url: 'https://Instragram.com/ch0cochips8_',
                     }
                 },
             ]
@@ -36,9 +36,9 @@ conn.reply(m.chat, info, m, {
 contextInfo: { externalAdReply :{ showAdAttribution: true,
                         sourceUrl: 'https://youtu.be/ALQiRR1nzLI',
                         mediaType: 2,
-                        description: `⚘ ᴄʀᴇᴀᴛᴇ ᴹᴿ᭄ PutraModz ×፝֟͜×`,
+                        description: `⚘ ᴄʀᴇᴀᴛᴇ 🎀 Hiraiwa 🎀`,
                         title: `💌 Ultah Owner : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-                        body: `⚘ ᴄʀᴇᴀᴛᴇ by ᴹᴿ᭄ PutraModz ×፝֟͜×`,          previewType: 0,
+                        body: `⚘ ᴄʀᴇᴀᴛᴇ by 🎀 Hiraiwa 🎀`,          previewType: 0,
                         thumbnail: await (await fetch(giflogo2)).buffer(),
                         mediaUrl: 'https://youtu.be/ALQiRR1nzLI'
                         
