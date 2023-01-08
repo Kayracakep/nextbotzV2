@@ -3,7 +3,7 @@ let pp = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&s
 let botol = global.wm
 let str = `
 ✧─────[ *Group Official* ]─────✧
-🍀 Group WhatsApp : https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff
+🍀 Group WhatsApp : https://chat.whatsapp.com/LMoogYB7Fjc3v1ep9GwBG2
 🍀 Server Discord : https://discord.gg/4HvezMAw
 ✧──────────···──────────✧
 `.trim()
