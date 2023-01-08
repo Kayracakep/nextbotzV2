@@ -32,10 +32,10 @@ contextInfo: { externalAdReply :{
                         mediaUrl: '',
                         mediaType: 2,
                         description: 'anu',
-                        title: `A MIMIR🎧 : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
+                        title: `Hiraiwa🦄 : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
                         body: `Join Grup`,          previewType: 0,
                         thumbnail: await (await fetch(`https://i.ibb.co/5st560k/fake.jpg`)).buffer(),
-                        sourceUrl: 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
+                        sourceUrl: 'https://chat.whatsapp.com/LMoogYB7Fjc3v1ep9GwBG2'
             }
         }
     })
