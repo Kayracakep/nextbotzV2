@@ -42,6 +42,7 @@ let info = `
 ༅ _*FITUR BOT*
 
 ✧ *Virtex Menu✅*
+✧ *Jadi Anime✅*
 ✧ *Menu Keren✅*
 ✧ *Anti Link✅*
 ✧ *Button Menu✅*
